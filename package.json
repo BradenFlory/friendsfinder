@@ -1,0 +1,24 @@
+{
+  "name": "friendsfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BradenFlory/friendsfinder.git"
+  },
+  "author": "Braden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BradenFlory/friendsfinder/issues"
+  },
+  "homepage": "https://github.com/BradenFlory/friendsfinder#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mysql": "^2.17.1"
+  }
+}
